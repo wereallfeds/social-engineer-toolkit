@@ -20,7 +20,7 @@ git clone https://github.com/wereallfeds/social-engineer-toolkit
 
 cd social-engineer-toolkit
 
-./
+sudo ./setup.py install
 
 ### Bugs and enhancements
 
